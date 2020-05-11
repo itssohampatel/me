@@ -888,7 +888,8 @@ body > footer .copyrights {
 
 .info-list {
   display: inline-block;
-  margin: 4vh;
+  margin-top:4vh;
+  margin-bottom:4vh;
   padding: 0;
   list-style: none;
 }
@@ -900,7 +901,7 @@ body > footer .copyrights {
 
 .info-list li .title {
   display: inline-block;
-  min-width: 120px;
+  min-width: 106px;
 }
 
 .info-list li .value {
